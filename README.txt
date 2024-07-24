@@ -32,6 +32,5 @@ Additional Notes:
 
 Contributors:
 - Purva Patel
-- Yousif Iskander
-- Leevian Chen
+
 
