@@ -1,3 +1,4 @@
+<p>
 Project README.md
 
 Overview:
@@ -34,3 +35,4 @@ Contributors:
 - Purva Patel
 
 
+</p>
